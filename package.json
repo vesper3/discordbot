@@ -1,0 +1,9 @@
+{
+  "name": "the-progenitor",
+  "version": "0.0.0",
+  "description": "The progenitor",
+  "main": "app.js",
+  "author": {
+    "name": "Jeremy"
+  }
+}
